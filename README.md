@@ -1,1 +1,1 @@
-# g0dbless
+Praktikum Prognet
